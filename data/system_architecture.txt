@@ -1,0 +1,23 @@
+System Architecture Overview
+
+The platform follows a distributed architecture.
+
+Core components include:
+
+API Gateway
+Handles incoming requests and routes them to appropriate services.
+
+Authentication Service
+Manages login, token generation, and user identity.
+
+User Service
+Handles user profile data and account management.
+
+Database Layer
+PostgreSQL is used as the primary relational database.
+
+Cache Layer
+Redis is used to cache frequently accessed data.
+
+Message Queue
+Kafka is used for asynchronous communication between services.

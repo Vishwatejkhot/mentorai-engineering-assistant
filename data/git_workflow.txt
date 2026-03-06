@@ -1,0 +1,18 @@
+Git Workflow
+
+The team follows a Git branching workflow.
+
+Main branch
+Contains stable production code.
+
+Develop branch
+Integration branch for features.
+
+Feature branches
+Created for each new feature.
+
+Pull requests are used to review code before merging.
+
+Best practices
+Write meaningful commit messages.
+Review code before merging.

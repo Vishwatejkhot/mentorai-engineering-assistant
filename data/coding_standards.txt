@@ -1,0 +1,13 @@
+Coding Standards
+
+Code should follow consistent style guidelines.
+
+Principles
+
+Write readable code.
+Use meaningful variable names.
+Avoid deeply nested logic.
+
+Functions should be small and focused on one task.
+
+Documentation should be written for complex logic.

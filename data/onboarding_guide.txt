@@ -1,0 +1,22 @@
+New Engineer Onboarding Guide
+
+Welcome to the engineering team.
+
+During the first 90 days engineers should focus on understanding the company technology stack, architecture, and development workflow.
+
+Week 1
+Understand the system architecture and project structure.
+Set up the development environment.
+Learn the Git workflow used by the team.
+
+Week 2
+Understand the backend APIs and database schema.
+Read documentation related to authentication and authorization.
+
+Week 3
+Work on small bug fixes and understand the CI/CD pipeline.
+
+Best practices
+Ask questions early.
+Read documentation before implementing features.
+Write clean and maintainable code.

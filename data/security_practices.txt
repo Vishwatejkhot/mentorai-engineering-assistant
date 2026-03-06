@@ -1,0 +1,11 @@
+Security Best Practices
+
+Never store passwords in plain text.
+
+Passwords should be hashed using secure algorithms such as bcrypt.
+
+Use HTTPS for all external communication.
+
+Authentication tokens should expire after a short time.
+
+Access control should follow the principle of least privilege.

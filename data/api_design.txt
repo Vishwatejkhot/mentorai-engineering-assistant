@@ -1,0 +1,16 @@
+REST API Design Principles
+
+REST APIs follow standard HTTP methods.
+
+GET retrieves data.
+POST creates data.
+PUT updates data.
+DELETE removes data.
+
+Best practices
+
+Use clear endpoint naming.
+Use versioning such as /api/v1/users.
+Return meaningful HTTP status codes.
+
+Authentication is typically implemented using JWT tokens.

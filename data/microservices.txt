@@ -1,0 +1,18 @@
+Microservices Architecture
+
+Microservices architecture divides an application into small independent services.
+
+Each service:
+- runs independently
+- has its own database
+- communicates via APIs
+
+Advantages
+Scalability
+Independent deployment
+Better fault isolation
+
+Challenges
+Service communication
+Data consistency
+Operational complexity

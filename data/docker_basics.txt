@@ -1,0 +1,19 @@
+Docker Basics
+
+Docker is a containerization platform that packages applications with their dependencies.
+
+Key concepts
+
+Image
+A blueprint used to create containers.
+
+Container
+A running instance of a Docker image.
+
+Dockerfile
+Defines the instructions to build a Docker image.
+
+Benefits
+Consistent development environments
+Easy deployment
+Isolation between services

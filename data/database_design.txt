@@ -1,0 +1,11 @@
+Database Design Principles
+
+The system uses PostgreSQL.
+
+Tables are normalized to reduce redundancy.
+
+Indexes are used to improve query performance.
+
+Foreign keys enforce relationships between tables.
+
+Database migrations are used to track schema changes.

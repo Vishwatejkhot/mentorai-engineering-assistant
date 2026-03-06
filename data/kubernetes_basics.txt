@@ -1,0 +1,19 @@
+Kubernetes Overview
+
+Kubernetes is a container orchestration platform.
+
+It manages container deployment, scaling, and networking.
+
+Core components
+
+Pod
+Smallest deployable unit in Kubernetes.
+
+Node
+A machine that runs containers.
+
+Cluster
+A group of nodes managed by Kubernetes.
+
+Service
+Provides networking access to pods.
