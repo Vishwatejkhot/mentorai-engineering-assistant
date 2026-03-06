@@ -52,28 +52,36 @@ Final Response
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
-
 mentorai-engineering-assistant/
 
-├── agents/\
-│ ├── agent.py\
-│ └── tools.py
+├── agents/
+│   ├── agent.py                # LangChain agent configuration
+│   └── tools.py                # Agent tools (RAG + web search)
 
-├── rag/\
-│ ├── rag_chain.py\
-│ └── vector_store.py
+├── rag/
+│   ├── rag_chain.py            # Retrieval QA chain
+│   └── vector_store.py         # Vector database creation/loading
 
-├── data/\
-│ └── engineering_docs.txt
+├── data/                       # Knowledge base for RAG
+│   ├── onboarding_guide.txt
+│   ├── system_architecture.txt
+│   ├── microservices.txt
+│   ├── api_design.txt
+│   ├── docker_basics.txt
+│   ├── kubernetes_basics.txt
+│   ├── git_workflow.txt
+│   ├── coding_standards.txt
+│   ├── database_design.txt
+│   └── security_practices.txt
 
-├── prompts/\
-│ └── mentor_prompt.txt
+├── prompts/
+│   └── mentor_prompt.txt       # AI mentor system prompt
 
-├── config.py\
-├── app.py\
-├── requirements.txt\
-├── .env.example\
+├── config.py                   # Environment configuration
+├── app.py                      # Streamlit SaaS interface
+├── requirements.txt            # Python dependencies
+├── .gitignore
+├── .env.example
 └── README.md
 
 ------------------------------------------------------------------------
