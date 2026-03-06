@@ -55,14 +55,14 @@ Final Response
 mentorai-engineering-assistant/
 
 ├── agents/
-│   ├── agent.py                # LangChain agent configuration
-│   └── tools.py                # Agent tools (RAG + web search)
+│   ├── agent.py
+│   └── tools.py
 
 ├── rag/
-│   ├── rag_chain.py            # Retrieval QA chain
-│   └── vector_store.py         # Vector database creation/loading
+│   ├── rag_chain.py
+│   └── vector_store.py
 
-├── data/                       # Knowledge base for RAG
+├── data/
 │   ├── onboarding_guide.txt
 │   ├── system_architecture.txt
 │   ├── microservices.txt
@@ -75,12 +75,11 @@ mentorai-engineering-assistant/
 │   └── security_practices.txt
 
 ├── prompts/
-│   └── mentor_prompt.txt       # AI mentor system prompt
+│   └── mentor_prompt.txt
 
-├── config.py                   # Environment configuration
-├── app.py                      # Streamlit SaaS interface
-├── requirements.txt            # Python dependencies
-├── .gitignore
+├── config.py
+├── app.py
+├── requirements.txt
 ├── .env.example
 └── README.md
 
