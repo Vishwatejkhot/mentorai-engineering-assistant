@@ -8,6 +8,12 @@ to answer questions using both internal documentation and external
 knowledge.
 
 ------------------------------------------------------------------------
+## 🌐 Live Demo
+
+🚀 Try the deployed application here:
+
+👉 https://mentorai-engineering-assistant.streamlit.app
+------------------------------------------------------------------------
 
 ## 🚀 Features
 
