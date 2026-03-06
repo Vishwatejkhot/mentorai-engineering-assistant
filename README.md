@@ -82,7 +82,6 @@ mentorai-engineering-assistant/
 ├── requirements.txt
 ├── .env.example
 └── README.md
-
 ------------------------------------------------------------------------
 
 ## ⚙️ Installation
